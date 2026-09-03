@@ -99,9 +99,4 @@ def main():
             break
 
 if __name__ == "__main__":
-    # Ensure all dependencies are met before running
-    # You must have Ollama running with 'mistral' model installed locally
-    # pip install langchain langchain-community chromadb sentence-transformers ollama
-    
-    # To run this code, you MUST save the content between the file tags into the corresponding file name.
     main()
