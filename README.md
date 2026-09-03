@@ -1,5 +1,10 @@
 # GPT-Text Based Q&A Agent
 
+# Ensure all dependencies are met before running
+    # You must have Ollama running with 'mistral' model installed locally
+    # You can download using it here https://ollama.com/download/
+    
+
 ## Clone the repository in your terminal 
 
 ```bash
