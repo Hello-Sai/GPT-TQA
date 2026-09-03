@@ -26,7 +26,7 @@ git clone https://github.com/Hello-Sai/GPT-TQA/
 
 ```bash
 
-  python3 main_script.py
+  python3 main.py
 ```
 ## The exact template is 
 Input : Question
